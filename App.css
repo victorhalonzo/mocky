@@ -1,0 +1,14 @@
+.App{
+  margin: auto;
+  max-width: 750px;
+}
+
+.cont-posts{
+  display: flex;
+  /*justify-content: space-evenly;*/
+  margin: 30px;
+}
+
+.img-post{
+  margin: 20px;
+}
